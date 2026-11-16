@@ -98,4 +98,4 @@ pandas, scikit-learn, [LightGBM](https://github.com/microsoft/LightGBM), [Interp
 
 ## Author
 
-Mekayle Rajoo, [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mekayle-rajoo-7504161a5/)
+Mekayle Rajoo, [LinkedIn](https://www.linkedin.com/in/mekayle-rajoo-7504161a5/)
